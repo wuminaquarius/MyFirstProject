@@ -1,3 +1,4 @@
 ﻿  stdafx.cpp
   ConsoleApplication1.cpp
-  ConsoleApplication1.vcxproj -> D:\Study\C++\Visual Studio\MyFirstProject\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  LINK : 没有找到 D:\Study\C++\Visual Studio\GitHub\MyFirstProject\ConsoleApplication1\Debug\ConsoleApplication1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  ConsoleApplication1.vcxproj -> D:\Study\C++\Visual Studio\GitHub\MyFirstProject\ConsoleApplication1\Debug\ConsoleApplication1.exe
